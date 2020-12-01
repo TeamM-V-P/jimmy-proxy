@@ -43,27 +43,27 @@
 module.exports = {
   navBar: {
     api: '/nav',
-    url: 'http://localhost:3001',
+    url: 'http://3.129.67.236:3001/',
     bundle: 'bundle.js',
   },
   productView: {
     api: '/items',
-    url: 'http://localhost:3002',
+    url: 'http://18.144.22.236:3002/',
     bundle: 'bundle.js',
   },
   relatedItems: {
     api: '/games',
-    url: 'http://localhost:3003',
+    url: 'http://3.16.109.45:3004/',
     bundle: 'bundle.js',
   },
   questionsAndAnswers: {
     api: '/q&a',
-    url: 'http://localhost:3004',
+    url: 'http://18.188.192.60:3003/',
     bundle: 'bundle.js',
   },
   serviceReviews: {
     api: '/products',
-    url: 'http://localhost:3005',
+    url: 'http://3.19.62.76:3000/',
     bundle: 'bundle.js',
   },
 };
